@@ -1,4 +1,5 @@
-build/
+build/*
+!build/CroDefiSwapRouter02.json
 node_modules/
 swap-contracts-core
 WETH/contract-development.json
